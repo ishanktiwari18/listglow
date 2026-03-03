@@ -1,4 +1,4 @@
-# Task Management API - Full Stack Application
+# ListGlow- Full Stack Application
 
 A production-ready REST API built with FastAPI featuring JWT authentication, role-based access control (RBAC), and a modern React frontend.
 
